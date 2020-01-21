@@ -1,0 +1,135 @@
+Anime :
+{
+	"name": "Ajin",
+	"category": "Seinen",
+	"language": "VF",
+	"synopsis": "Après s’être fait renverser par un camion, Kei Nagai, jeune étudiant, découvre qu’il est un « Ajin », un être vivant immortel. Les Ajin étant considérés comme des monstres immortels puis comme des spécimens précieux pour le progrès de l’humanité, Kei est désormais chassé par les humains et son seul soutien est son meilleur ami Kaito.",
+	"date": "16 janvier 2016",
+	"image": "http://static.planetebd.com/dynamicImages/album/cover/large/27/07/album-cover-large-27071.jpg"
+},
+{
+        "name": "Dr. STONE",
+        "category": "Shonen",
+        "language": "VOSTFR",
+        "synopsis": "Un jour, une lumière brillante apparaît subitement dans le ciel pétrifiant en une fraction de seconde l’humanité entière. Des millénaires plus tard, Taiju parvient à briser son enveloppe de pierre et découvre un monde où le genre humain a disparu de la surface de la terre. Avec son ami Senku, ils décident de récréer la civilisation à partir de zéro !",
+        "date": "07/05/2019",
+        "image": "https://www.nautiljon.com/images/more/01/19/129791.jpg"
+},
+{
+        "name": "Kishuku Gakkou no Juliet",
+        "category": "Shonen",
+        "language": "VOSTFR",
+        "synopsis": "Kishuku Gakkou no Juliet est un manga qui s’inspire très librement de l’histoire de Roméo et Juliette de l’auteur britannique William Shakespeare. L’académie de Grigio. Les élèves venant étudier dans cet établissement viennent de deux pays différents et résident ainsi dans deux dortoirs séparés. Romeo Inudzuka et Juliet Percia, sont les représentants rivaux des deux dortoirs, cependant ils éprouvent et vivent une relation amoureuse en secret. Ils vont ainsi devoir vivre leur relation à l’abri des regards ou de mauvaise choses pourraient leur arriver.",
+        "date": "10/05/2018",
+        "image": "https://www.nautiljon.com/images/anime/00/05/kishuku_gakkou_no_juliet_7650.jpg"
+},
+{
+        "name": "Vampire Knight",
+        "category": "Shojo",
+        "language": "VF",
+        "synopsis": "Le plus ancien souvenir que garde Yuki est celui d’une nuit hivernale, où elle fut attaquée par un vampire… et secourue par un autre. Dix ans plus tard, Yuki, fille adoptive du directeur de l’Académie Cross, a grandi et est devenue gardienne de l’académie. Elle est amoureuse de Kanamé, son sauveur, qui est le président de la Night Class (classe regroupant de jeunes vampires aristocratiques). Mais aussi à ses côtés, il y a Zero qui se bat pour ne pas devenir un Level E, son ami d’enfance, dont la famille fut décimée par un vampire. Depuis ce drame, il voue une profonde haine envers ces créatures mythiques… La paix établie par le Directeur Cross entre humains et vampires va-t-elle durer ? Les vampires ne cachent-ils pas quelque chose ? Dans ce monde où règnent mystère et magie, rien n’est comme il semble. Et si le prix de la confiance pouvait être pire que la mort d’un être cher ?",
+        "date": "04/08/2008",
+        "image": "https://media.senscritique.com/media/000015702720/source_big/Vampire_Knight.jpg"
+},
+{
+        "name": "Black Lagoon",
+        "category": "Seinen",
+        "language": "VF",
+        "synopsis": "Okajima Rokuro, surnommé Rock, est un jeune employé d'une firme Japonaise : Asahi Industrial. Il y mène une vie monotone. Cependant, sa vie d'employé va soudain basculée lorsqu'il sera pris en otage par l'équipage du Black Lagoon, qui sont là pour lui prendre la disquette dont il était responsable. Rock sera abandonné par ses patrons, il décidera de se joindre à l'équipage en tant que matelot. C'est ainsi que Rock, rejoint Rebby, Dutch et Benny.",
+        "date": "09/04/2006",
+        "image": "https://media.senscritique.com/media/000015702720/source_big/Vampire_Knight.jpg"
+},
+{
+        "name": "Akagami no Shirayukihime",
+        "category": "Shojo",
+        "language": "VOSTFR",
+        "synopsis": "Shirayuki est une herboriste reconnue et très appréciée qui possède, en plus de ce talent, une autre caractéristique inhabituelle : des cheveux aussi rouges qu'une pomme bien mûre. Cette couleur de cheveux étant très rare, elle attire un jour l'attention du prince Raji, premier prince du royaume de Tanbarun, qui veut faire d'elle sa concubine. Mais la jeune fille refuse et s'enfuit vers le royaume voisin. C'est à cette occasion qu'elle croisera Zen, qui se révèlera bien vite être le second prince du royaume de Clarines. Intéressé par la jeune fille, il lui proposera de venir vivre dans son royaume où elle aura la possibilité de devenir l'une des pharmacologiste du palais. Elle acceptera.",
+        "date": "06/07/2015",
+        "image": "https://media.senscritique.com/media/000015702720/source_big/Vampire_Knight.jpg"
+}
+
+Video :
+{
+        "name": "Dr. STONE",
+        "episode": 1,
+        "saison": 1,
+        "language": "VOSTFR",
+        "video": "https://www1279.o0-3.com/token=meYl1zFo6Unv3v6bszpI1g/1578882088/2a01:cb14::/58/7/b6/a985b2a286c6f889a41641ee12dfbb67-480p.mp4"
+},
+{
+        "name": "Dr. STONE",
+        "episode": 2,
+        "saison": 1,
+        "language": "VOSTFR",
+        "video": "https://www1982.o0-4.com/token=U-U8ufpIrAKa-Fgag3QLpw/1578882620/2a01:cb14::/59/8/4d/e89bd874a1c1cd1edcc8514e65c234d8-480p.mp4"
+}
+{
+        "name": "Ajin",
+        "episode": 1,
+        "saison": 1,
+        "language": "VF",
+        "video": "https://xibponvezf.mystream.io/k27itmzxykbgf7mtn4frm5al2evdamcgnaf7h7gwzvqnlnr33f74xmwxr5cq/s2at2qi6iju8o3zr7r2m.mp4?h=547fc437f72c63694f14c6132720e500"
+},
+{
+        "name": "Ajin",
+        "episode": 2,
+        "saison": 1,
+        "language": "VF",
+        "video": "https://nizbhfjhxw.mystream.io/k27ivmrxykbgf7mtn4frmzkzqmgxzsgmtblc5ruczkl3rlop6r37psuwrz4q/p6rse03b628oj75b8tor.mp4?h=547fc437f72c63694f14c6132720e500"
+}
+{
+        "name": "Akagami no Shirayukihime",
+        "episode": 1,
+        "saison": 1,
+        "language": "VOSTFR",
+        "video": "https://kttpqhadiv.mystream.io/k27itxz6ykbgf7mtn4frm6quszfgl7nm24dnq6m72pruxtwut5nqzhwenaga/e4s9mtk4l7x4rjh2s5uh.mp4?h=547fc437f72c63694f14c6132720e500"
+},
+{
+        "name": "Akagami no Shirayukihime",
+        "episode": 2,
+        "saison": 1,
+        "language": "VOSTFR",
+        "video": "https://oznthewnux.mystream.io/k27itxr6ykbgf7mtn4frmniztrtqqzqb3ee3hkknqhiwhkexdicpdiouo7bq/s2at2qi6iju8o3zr7r2m.mp4?h=547fc437f72c63694f14c6132720e500"
+}
+{
+        "name": "Black Lagoon",
+        "episode": 1,
+        "saison": 1,
+        "language": "VF",
+        "video": "https://nkzvvmpkkq.mystream.io/k27itqgnygbgf7mtn4mrmyc52zwyqyjqqdu2f4a35r3s3slwlk4w6wjv5aua/e4s9mtk4l7x4rjh2s5uh.mp4?h=547fc437f72c63694f14c6132720e500"
+},
+{
+        "name": "Black Lagoon",
+        "episode": 2,
+        "saison": 1,
+        "language": "VF",
+        "video": "https://hkpruodptb.mystream.io/k27itx6nygbgf7mtn4mrm7ad26mgpbfbgbsvgnaat7ycved3hcikc3oqi56a/ldbjmrakcimxrxatkgrv.mp4?h=547fc437f72c63694f14c6132720e500"
+}
+{
+        "name": "Kishuku Gakkou no Juliet",
+        "episode": 1,
+        "saison": 1,
+        "language": "VOSTFR",
+        "video": "https://xnlcxxlusf.mystream.io/k27ivcvsykbgf7mtn4abm3q4rkpuy36bcq2mo2yaq7qa5jaevmklsuws5fwq/p6rse03b628oj75b8tor.mp4?h=547fc437f72c63694f14c6132720e500"
+},
+{
+        "name": "Kishuku Gakkou no Juliet",
+        "episode": 2,
+        "saison": 1,
+        "language": "VOSTFR",
+        "video": "https://dtwwcthbeh.mystream.io/k27itbfsykbgf7mtn4abmpauts6lill77buv724vg353gip57cvromrbxppq/fnnsqwfbvdaujiljldsx.mp4?h=547fc437f72c63694f14c6132720e500"
+}
+{
+        "name": "Vampire Knight",
+        "episode": 1,
+        "saison": 1,
+        "language": "VF",
+        "video": "https://xchqawoixb.mystream.io/k27iuwb6ygbgf7mtn4pbmya7sawwcu2atyvyzlgea7v2oz6apfjaslewt6aq/rh4o63b5yr52lssg204u.mp4?h=547fc437f72c63694f14c6132720e500"
+},
+{
+        "name": "Vampire Knight",
+        "episode": 2,
+        "saison": 1,
+        "language": "VF",
+        "video": "https://hinlpxtpsr.mystream.io/k27isvz6ygbgf7mtn4pbmyamsacdjq4bxincp6z5de365vzdxyz4jt2dkg2q/e4s9mtk4l7x4rjh2s5uh.mp4?h=547fc437f72c63694f14c6132720e500"
+}
